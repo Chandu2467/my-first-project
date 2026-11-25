@@ -1,0 +1,12 @@
+This is my first feature branch.
+
+Branch Name: feature-practice
+
+Purpose:
+Learning GitHub branches.
+
+Topics:
+1. Branch creation
+2. Branch switching
+3. Branch comparison
+4. Branch merging
