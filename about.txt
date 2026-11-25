@@ -1,0 +1,11 @@
+My Name: Chandra Sekhar
+
+My Learning:
+1. Python
+2. Flask
+3. SQL
+4. Git
+5. GitHub
+
+My Goal:
+Become a Python Full Stack Developer.
