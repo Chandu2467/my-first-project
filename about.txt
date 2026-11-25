@@ -7,5 +7,10 @@ My Learning:
 4. Git
 5. GitHub
 
+My Skills:
+1. Python Programming
+2. Database Management
+3. Git and GitHub
+
 My Goal:
 Become a Python Full Stack Developer.
